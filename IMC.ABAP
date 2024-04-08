@@ -1,5 +1,7 @@
 REPORT ZR0008.
 
+* Calculo do índice de massa corpórea.
+
 DATA:  IMC TYPE P DECIMALS 2.
 
 PARAMETERS: PESO TYPE P DECIMALS 2,
